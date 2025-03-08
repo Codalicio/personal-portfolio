@@ -3,6 +3,7 @@
 * Navbar
     - Home
     - Contact Me
+    - Resume
 
 * Intro Section
     - Heading
@@ -26,6 +27,7 @@
 * Navbar
     - Home
     - Contact Me
+    - Resume
 
 * Contact Me Form
     - First Name
