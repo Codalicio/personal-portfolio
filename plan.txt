@@ -1,0 +1,46 @@
+1. Home Page
+
+* Navbar
+    - Home
+    - Contact Me
+
+* Intro Section
+    - Heading
+    - Image
+    - About Me
+
+* Education
+    - List Educational Qualifications
+
+* Skills
+    - List all my Skills
+
+* Footer
+    - Home
+    - Contact Me
+    - Social Links
+
+
+2. Contact Me
+
+* Navbar
+    - Home
+    - Contact Me
+
+* Contact Me Form
+    - First Name
+    - Last Name
+    - Email
+    - Submit Button
+
+* Social Links
+    - Linkedin
+    - Github
+
+* Embed a Map
+    - My current address Map
+
+* Footer
+    - Home
+    - Contact Me
+    - Social Links
