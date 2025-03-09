@@ -49,6 +49,7 @@
 
 # Links :
 
+Github : https://github.com/Codalicio/personal-portfolio
 Github Pages : https://codalicio.github.io/personal-portfolio/
 Netlify : https://leafy-tapioca-f49d33.netlify.app/
 Vercel : https://amit-personal-portfolio.vercel.app/
